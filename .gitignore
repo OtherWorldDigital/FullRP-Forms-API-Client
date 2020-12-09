@@ -1,3 +1,7 @@
+# User added
+.idea/
+target/
+
 # Compiled class file
 *.class
 
